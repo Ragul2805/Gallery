@@ -180,7 +180,8 @@ def index(request):
     return render(request,'index.html')
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-10-05 162035.png>)
-![alt text](<Screenshot 2025-10-05 162051.png>)
+![alt text](02.png)
+![alt text](01.png)
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
